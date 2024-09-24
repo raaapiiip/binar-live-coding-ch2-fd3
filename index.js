@@ -59,9 +59,9 @@ for (let i = 0; i < totalButton.length; i++) {
     });
 }
 
-document.addEventListener("keypress", function (eventKeyPress) {
-    buttonSound(eventKeyPress.key);
-    buttonAnimation(document.querySelector(`.${eventKeyPress.key}`));
+document.addEventListener("keydown", function (event) {
+    buttonSound(event.key);
+    buttonAnimation(document.querySelector(`.${event.key}`));
 });
 
 function buttonSound(currentButton) {
