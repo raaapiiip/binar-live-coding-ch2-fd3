@@ -1,7 +1,7 @@
 # Drum 🥁 Kit
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/KBUpa72wij8AAAAC/ba-dum-tuss-jokes.gif" alt="Drum Kit GIF" style="margin: 0 20px;">
+  <img src="https://media1.tenor.com/m/KBUpa72wij8AAAAC/ba-dum-tuss-jokes.gif" alt="Drum Kit GIF" style="margin: 200px 0;">
 </div>
 
 Project ini adalah sebuah aplikasi Drum Kit interaktif, yang dimana pengguna dapat memainkan suara drum yang berbeda dengan mengklik tombol di layar atau menekan tombol tertentu pada keyboard mereka.
