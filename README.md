@@ -23,15 +23,12 @@ Drum Kit memungkinkan Anda memainkan berbagai suara drum, seperti tom, snare, cr
 - **Klik** tombol pada layar, atau **Tekan** tombol yang sesuai pada keyboard Anda (`W`, `A`, `S`, `D`, `J`, `K`, `L`) untuk memainkan suara drum.
 - Umpan balik berupa animasi diberikan ketika tombol ditekan, dengan tombol berubah warna untuk sesaat.
 
-## 5. Flowchart
-
-
-## 6. Instalasi
-1. Clone repositori ini atau download file dalam format ZIP.
-2. Extract ZIP dari file yang sudah didownload.
+## 5. Instalasi
+1. Clone repository atau download file dalam format ZIP.
+2. Extract ZIP dari file yang sudah terdownload.
 3. Cari file `index.html`, lalu buka file tersebut di browser web untuk menjalankan Drum Kit.
 
-## 7. Struktur File
+## 6. Struktur File
 - `index.html`    : File HTML utama untuk Drum Kit
 - `styles.css`    : File CSS yang berisi styles untuk Drum Kit
 - `index.js`      : File JavaScript yang mengatur suara drum dan animasi
